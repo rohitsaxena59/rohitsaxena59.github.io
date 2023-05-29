@@ -17,9 +17,10 @@ body {
 }
 
 /* Header styles */
-header {
+header,footer {
   background-color: #333;
   padding: 10px 0;
+  color: white;
 }
 
 nav ul {
@@ -38,4 +39,3 @@ nav ul li a {
 }
 
 nav ul
-
